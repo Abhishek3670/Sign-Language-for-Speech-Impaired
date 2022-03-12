@@ -7,5 +7,5 @@ The dataset is made manually by running the __*Image Collection python file*__ t
 The image annotations is done with the help of LabelImage file which you can use by simply git cloning the following:<br>
 [Git link](https://github.com/tzutalin/labelImg)<br>
 
-The model was made only with help of [Nicholas Renotte tutorial] (https://youtu.be/pDXdlXlaCco)
+The model was made only with help of [Nicholas Renotte tutorial] (https://youtu.be/pDXdlXlaCco) <br>
 He's an inspiration!
